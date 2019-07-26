@@ -9,3 +9,5 @@ Once the data was imported, I conducted a SQL Query that subtracted the Low pric
 After returning the data, I graphed it as a scatterplot to measure the relationship. I have had trouble getting the graph to accurate order the volume of transactions. 
 
 The packages I used to answer this question are as follows: sqlite3, pandas, numpy, and matplotlib.
+
+While I had difficulties getting my volume data to sort correctly, I would conclude that there is a weak correlation at best between a large fluctuation in price and volume traded.
